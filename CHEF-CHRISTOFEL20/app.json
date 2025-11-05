@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "github.com/moitheri2025/chef-christofel2",
+    "slug": "snack-8e2163a1-4f81-4cdd-bb87-b349badfcb3f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/MOITHERI2025/Chef-Christofel2 @ Nov 5, 2025"
+  }
+}
