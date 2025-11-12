@@ -1,5 +1,6 @@
 # CHEF-CHRISTOFEL20
 A PRIVATE CHEF
+Changed the code to a fully responsive code of an app
 The screens are able to navigate through each other
 The chef can now add and remove food items from the menu.
 The menu now has starters,main course and dessert sections.
